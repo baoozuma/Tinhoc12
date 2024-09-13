@@ -92,6 +92,12 @@ iframe {
     border-width: 2vw;
     height: 40vw;
     width: 60vw;
-    border-color: black;
+    border-color: yellow;
     border-style: solid;
+    
+}
+.contain{
+    padding: 0.5vw;
+    background-color: black;
+    margin-bottom: 1vw;
 }
