@@ -4,14 +4,14 @@
     font-family: monospace
 }
 .khung {
-    width: 50%;
+    width: 30vw;
     border-style: solid;
     border-color: black;
     margin-bottom: 1em;
-    padding: 1em;
+    padding: 3vw;
     background-color: rgb(250, 246, 208);
     font-family: monospace;
-    font-size: 20px;
+    font-size: 5vw;
     transition: 0.3s;
     display: flex;  
     flex-direction: column;
@@ -28,18 +28,18 @@
     flex-direction: column;
 }
 .thongtin p{
-    font-size: 25px;
-    line-height: 25px;
+    font-size: 1.5vw;
+    line-height: 2vw;
     text-decoration: none;
 }
 h1 {
     color: white;
-    font-size: 50px;
+    font-size: 5vw;
     font-family: monospace
 }
 h2 {
     color: rgb(4, 70, 174);
-    font-size: 40px;
+    font-size: 2.7vw;
 }
 body{ 
     background-color: rgb(36, 3, 78);
@@ -52,7 +52,7 @@ body{
 }
 img {
     object-fit: cover;
-    width: 300px;
+    width: 20vw;
     height: auto;
     border-style: solid;
     border-color: black;
