@@ -38,8 +38,8 @@ h1 {
     font-family: monospace
 }
 h2 {
-    color: blue;
-    font-size: 30px;
+    color: rgb(4, 70, 174);
+    font-size: 40px;
 }
 body{ 
     background-color: rgb(36, 3, 78);
@@ -48,7 +48,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: ;
+
 }
 img {
     object-fit: cover;
@@ -59,4 +59,16 @@ img {
 }
 a {
     text-decoration: none;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 30px;
+    background-color: yellow;
+    width: 98%;
+    font-size: 30px;
+    font-family: monospace;
+    padding: 10px;
+    font-weight: bold;
 }
